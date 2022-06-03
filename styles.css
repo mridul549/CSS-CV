@@ -1,0 +1,174 @@
+body {
+  margin: 0%;
+  text-align: center;
+  font-family: "Merriweather", serif;
+}
+
+p {
+  color: #40514e;
+  font-weight: bold;
+}
+
+a {
+  color: #ffffff;
+  text-decoration: none;
+}
+
+h1 {
+  font-family: "Sacramento", cursive;
+  color: #66bfbf;
+}
+
+h2 {
+  font-size: 30px;
+  color: #66bfbf;
+}
+
+h3 {
+  font-weight: normal;
+  color: #11999e;
+}
+
+hr {
+  border-style: none;
+  border-top: 7px dotted #eaf6f6;
+  width: 5%;
+}
+
+.intro1 {
+  font-size: 90px;
+  margin-bottom: 0;
+}
+
+.intro2 {
+  font-size: 20px;
+  color: #66bfbf;
+  margin-top: 0;
+  font-weight: normal;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 240px;
+  bottom: 300px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 290px;
+  top: 50px;
+}
+
+.TopContainer {
+  background-color: #eaf6f6;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle-container {
+  position: relative;
+  margin-top: 10;
+}
+
+.bottom-container {
+  background-color: #66bfbf;
+  position: relative;
+  padding-bottom: 100px;
+}
+
+.profile-pic {
+  height: 200px;
+  width: 200px;
+}
+
+.profile {
+  margin: 100px auto 100px auto;
+}
+
+.programmer-pic {
+  float: left;
+  margin-right: 50px;
+  width: 20%;
+}
+
+.editing {
+  margin-left: 10px;
+  float: right;
+  width: 20%;
+}
+
+.footer-link {
+  font-family: "Montserrat", sans-serif;
+  padding: 30px;
+  position: relative;
+  top: 50px;
+  font-weight: bolder;
+  font-size: 20px;
+}
+
+.skills {
+  margin: 100px auto 100px auto;
+}
+
+.btn {
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  border-radius: 10px;
+  color: #ffffff;
+  font-family: Verdana;
+  font-size: 20px;
+  font-weight: 500;
+  padding: 15px;
+  background-color: #66bfbf;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+  margin-top: 30px;
+  text-align: center;
+}
+
+.btn:hover {
+  background: #66bfbf;
+  border: ridge #66bfbf 1px;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  border-radius: 10px;
+  text-decoration: none;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 80px auto 150px auto;
+  text-align: left;
+}
+
+.touch {
+  margin: 20px auto 40px auto;
+}
+
+.contact-me {
+  margin: 100px auto 100px auto;
+}
+
+.programClass {
+  position: relative;
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.skill-head {
+  font-weight: bolder;
+}
+
+.like-profile {
+  font-weight: bolder;
+}
+
+.copy-right {
+  color: #eaf6f6;
+  position: relative;
+  top: 100px;
+}
